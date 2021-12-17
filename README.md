@@ -12,42 +12,41 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
 
-## APP DEMO: 
+## APP DEMOS: 
 
 - Create Schema and Seed data
 
 ![create schema and seed data](assets/createschema.gif)
 
-- GET routes to return all categories, all products
+- GET routes to return all categories, tags, and products
 
-![](images/demo-1.gif)
+![GET routes to return all categories, tags, and products](assets/getroutesall.gif)
 
-- GET routes to return a single category, a single product, and a single tag
+- GET routes to return a single category, tag, or product
 
-![](images/demo-2.gif)
+![GET routes to return a single category, tag, or product](assets/getroutesone.gif)
 
 - POST, PUT, and DELETE routes for categories
 
-![](images/demo-3.gif)
+![POST, PUT, and DELETE routes for categories](assets/categories.gif)
 
-- POST, PUT, and DELETE routes for Tags
+- POST, PUT, and DELETE routes for tags
 
-![](images/demo-4.gif)
+![POST, PUT, and DELETE routes for tags](assets/tags.gif)
 
 - POST, PUT, and DELETE routes for products
 
-![](images/demo-5.gif)
+![POST, PUT, and DELETE routes for products](assets/products.gif)
 
 
-
-
-
+## VIDEO LINKS:
+- [Create schema and seed data](https://www.youtube.com/watch?v=Z6M2BJBfYtg)
+- [GET routes to return all categories, tags and products](https://www.youtube.com/watch?v=UzgLXSlLsek)
+- [GET routes to return a single category, tag or product](https://www.youtube.com/watch?v=_uieKIYepBs)
+- [POST, PUT, and DELETE routes for categories](https://www.youtube.com/watch?v=y-2Uf2FoeM8)
+- [POST, PUT, and DELETE routes for tags](https://www.youtube.com/watch?v=hznRtvlBxwE)
+- [POST, PUT, and DELETE routes for products](https://www.youtube.com/watch?v=uX9B6cQHK34)
 
 
 ## CONTACT ME:
  [Github](https://github.com/bripap)  
-
-
-#### VIDEO LINKS:
-[Create schema and seed data](https://www.youtube.com/watch?v=Z6M2BJBfYtg)
-
