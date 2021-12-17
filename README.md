@@ -12,13 +12,42 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
 
-## WALK-THROUGH VIDEO:
+## APP DEMO: 
 
-[Click to watch example walk-through video](https://www.youtube.com/watch?v=vpJIoaVJUPY)
+- Create Schema and Seed data
 
-![gif](assets/gif.gif) 
+![create schema and seed data](assets/createschema.gif)
+
+- GET routes to return all categories, all products
+
+![](images/demo-1.gif)
+
+- GET routes to return a single category, a single product, and a single tag
+
+![](images/demo-2.gif)
+
+- POST, PUT, and DELETE routes for categories
+
+![](images/demo-3.gif)
+
+- POST, PUT, and DELETE routes for Tags
+
+![](images/demo-4.gif)
+
+- POST, PUT, and DELETE routes for products
+
+![](images/demo-5.gif)
+
+
+
+
+
 
 
 ## CONTACT ME:
  [Github](https://github.com/bripap)  
+
+
+#### VIDEO LINKS:
+[Create schema and seed data](https://www.youtube.com/watch?v=Z6M2BJBfYtg)
 
